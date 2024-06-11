@@ -1,0 +1,3 @@
+C:/Users/Amir/Documents/NewCodingProjects/opencvSignLanguage/out/build/x64-Debug/CMakeFiles/ObjectDetection.dir
+C:/Users/Amir/Documents/NewCodingProjects/opencvSignLanguage/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Amir/Documents/NewCodingProjects/opencvSignLanguage/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
